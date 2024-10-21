@@ -8,7 +8,7 @@ To be used with coding exercises.
 - Clone this repository:
 
 ``` sh
-git clone ...
+git clone https://github.com/ishiikurisu/python_template
 cd python_template 
 ```
 
@@ -52,4 +52,8 @@ class TestExample(unittest.TestCase):
         self.assertFalse(False)
 
 ```
+
+# References
+
+- [Python Unit Tests](https://docs.python.org/3/library/unittest.html)
 
